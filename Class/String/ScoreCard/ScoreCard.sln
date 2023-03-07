@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreCard", "ScoreCard\ScoreCard.csproj", "{A3306413-7CA3-4101-B271-D0942D8C4F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3306413-7CA3-4101-B271-D0942D8C4F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3306413-7CA3-4101-B271-D0942D8C4F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3306413-7CA3-4101-B271-D0942D8C4F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3306413-7CA3-4101-B271-D0942D8C4F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA31F105-776D-4FB5-9E6D-DDFAF9D5ECD9}
+	EndGlobalSection
+EndGlobal

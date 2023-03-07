@@ -1,0 +1,15 @@
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.exe
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.deps.json
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.runtimeconfig.json
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.dll
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\bin\Debug\net6.0\CollectionsDemo.pdb
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.csproj.AssemblyReference.cache
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.AssemblyInfoInputs.cache
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.AssemblyInfo.cs
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.dll
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\refint\CollectionsDemo.dll
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.pdb
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\CollectionsDemo.genruntimeconfig.cache
+D:\C# Training\Class\CollectionsDemo\CollectionsDemo\obj\Debug\net6.0\ref\CollectionsDemo.dll

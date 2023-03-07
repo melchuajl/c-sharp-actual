@@ -1,0 +1,15 @@
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.csproj.AssemblyReference.cache
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.AssemblyInfoInputs.cache
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.AssemblyInfo.cs
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.csproj.CoreCompileInputs.cache
+D:\C# Training\Method\ScoreCard\ScoreCard\bin\Debug\net6.0\ScoreCard.exe
+D:\C# Training\Method\ScoreCard\ScoreCard\bin\Debug\net6.0\ScoreCard.deps.json
+D:\C# Training\Method\ScoreCard\ScoreCard\bin\Debug\net6.0\ScoreCard.runtimeconfig.json
+D:\C# Training\Method\ScoreCard\ScoreCard\bin\Debug\net6.0\ScoreCard.dll
+D:\C# Training\Method\ScoreCard\ScoreCard\bin\Debug\net6.0\ScoreCard.pdb
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.dll
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\refint\ScoreCard.dll
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.pdb
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ScoreCard.genruntimeconfig.cache
+D:\C# Training\Method\ScoreCard\ScoreCard\obj\Debug\net6.0\ref\ScoreCard.dll

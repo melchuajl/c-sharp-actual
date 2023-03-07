@@ -1,0 +1,15 @@
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\bin\Debug\net6.0\FileReaderExercise.exe
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\bin\Debug\net6.0\FileReaderExercise.deps.json
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\bin\Debug\net6.0\FileReaderExercise.runtimeconfig.json
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\bin\Debug\net6.0\FileReaderExercise.dll
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\bin\Debug\net6.0\FileReaderExercise.pdb
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.csproj.AssemblyReference.cache
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.AssemblyInfoInputs.cache
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.AssemblyInfo.cs
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.csproj.CoreCompileInputs.cache
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.dll
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\refint\FileReaderExercise.dll
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.pdb
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\FileReaderExercise.genruntimeconfig.cache
+D:\C# Training\Class\FileReaderExercise\FileReaderExercise\obj\Debug\net6.0\ref\FileReaderExercise.dll

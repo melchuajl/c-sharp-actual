@@ -1,0 +1,15 @@
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\bin\Debug\net6.0\ProductListApp.exe
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\bin\Debug\net6.0\ProductListApp.deps.json
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\bin\Debug\net6.0\ProductListApp.runtimeconfig.json
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\bin\Debug\net6.0\ProductListApp.dll
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\bin\Debug\net6.0\ProductListApp.pdb
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.csproj.AssemblyReference.cache
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.AssemblyInfoInputs.cache
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.AssemblyInfo.cs
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.csproj.CoreCompileInputs.cache
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.dll
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\refint\ProductListApp.dll
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.pdb
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ProductListApp.genruntimeconfig.cache
+D:\C# Training\Class\ProductListApp\ProductListApp\ProductListApp\obj\Debug\net6.0\ref\ProductListApp.dll

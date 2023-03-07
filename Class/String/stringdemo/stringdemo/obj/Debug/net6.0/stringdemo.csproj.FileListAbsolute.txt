@@ -1,0 +1,15 @@
+D:\C# Training\String\stringdemo\stringdemo\bin\Debug\net6.0\stringdemo.exe
+D:\C# Training\String\stringdemo\stringdemo\bin\Debug\net6.0\stringdemo.deps.json
+D:\C# Training\String\stringdemo\stringdemo\bin\Debug\net6.0\stringdemo.runtimeconfig.json
+D:\C# Training\String\stringdemo\stringdemo\bin\Debug\net6.0\stringdemo.dll
+D:\C# Training\String\stringdemo\stringdemo\bin\Debug\net6.0\stringdemo.pdb
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.csproj.AssemblyReference.cache
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.AssemblyInfoInputs.cache
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.AssemblyInfo.cs
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.csproj.CoreCompileInputs.cache
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.dll
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\refint\stringdemo.dll
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.pdb
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\stringdemo.genruntimeconfig.cache
+D:\C# Training\String\stringdemo\stringdemo\obj\Debug\net6.0\ref\stringdemo.dll

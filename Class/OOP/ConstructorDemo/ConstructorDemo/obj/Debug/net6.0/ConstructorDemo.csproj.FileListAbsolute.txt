@@ -1,0 +1,15 @@
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.csproj.AssemblyReference.cache
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.AssemblyInfoInputs.cache
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.AssemblyInfo.cs
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.csproj.CoreCompileInputs.cache
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.exe
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.deps.json
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.runtimeconfig.json
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.dll
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.pdb
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.dll
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\refint\ConstructorDemo.dll
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.pdb
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.genruntimeconfig.cache
+D:\C# Training\Class\OOP\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ref\ConstructorDemo.dll

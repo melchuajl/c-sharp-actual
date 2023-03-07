@@ -1,0 +1,15 @@
+D:\C# Training\Class\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.exe
+D:\C# Training\Class\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.deps.json
+D:\C# Training\Class\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.runtimeconfig.json
+D:\C# Training\Class\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.dll
+D:\C# Training\Class\GenericsDemo\GenericsDemo\bin\Debug\net6.0\GenericsDemo.pdb
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.csproj.AssemblyReference.cache
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.AssemblyInfoInputs.cache
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.AssemblyInfo.cs
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.csproj.CoreCompileInputs.cache
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.dll
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\refint\GenericsDemo.dll
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.pdb
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\GenericsDemo.genruntimeconfig.cache
+D:\C# Training\Class\GenericsDemo\GenericsDemo\obj\Debug\net6.0\ref\GenericsDemo.dll

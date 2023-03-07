@@ -1,0 +1,15 @@
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\bin\Debug\net6.0\ThreadDemo.exe
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\bin\Debug\net6.0\ThreadDemo.deps.json
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\bin\Debug\net6.0\ThreadDemo.runtimeconfig.json
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\bin\Debug\net6.0\ThreadDemo.dll
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\bin\Debug\net6.0\ThreadDemo.pdb
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.csproj.AssemblyReference.cache
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.AssemblyInfoInputs.cache
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.AssemblyInfo.cs
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.dll
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\refint\ThreadDemo.dll
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.pdb
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ThreadDemo.genruntimeconfig.cache
+D:\C# Training\Class\Threads\ThreadDemo\ThreadDemo\obj\Debug\net6.0\ref\ThreadDemo.dll

@@ -1,0 +1,15 @@
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\bin\Debug\net6.0\FileHandlingDemo.exe
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\bin\Debug\net6.0\FileHandlingDemo.deps.json
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\bin\Debug\net6.0\FileHandlingDemo.runtimeconfig.json
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\bin\Debug\net6.0\FileHandlingDemo.dll
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\bin\Debug\net6.0\FileHandlingDemo.pdb
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.csproj.AssemblyReference.cache
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.AssemblyInfoInputs.cache
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.AssemblyInfo.cs
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.csproj.CoreCompileInputs.cache
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.dll
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\refint\FileHandlingDemo.dll
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.pdb
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\FileHandlingDemo.genruntimeconfig.cache
+D:\C# Training\Class\FileHandlingDemo\FileHandlingDemo\obj\Debug\net6.0\ref\FileHandlingDemo.dll
